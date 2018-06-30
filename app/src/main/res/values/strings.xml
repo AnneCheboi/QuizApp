@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EnglishTest</string>
+    <string name="_0">0</string>
+    <string name="question">The past tense of visit is?</string>
+    <string name="score">Score</string>
+    <string name="visitted">visitted</string>
+    <string name="visited">visited</string>
+    <string name="visiting">visiting</string>
+    <string name="visit">visit</string>
+    <string name="submit">SUBMIT</string>
+    <string name="good">Welcome to English Test Answer the questions to test how good you are at English</string>
+    <string name="thank_you">Thank you!</string>
+</resources>
